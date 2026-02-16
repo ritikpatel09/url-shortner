@@ -6,17 +6,17 @@ Every APi Response is a same time which make Fronentend to Integrate easily.
 Now User Give request like this :-
 
 {
-  "url":"https://www.microsoft.com/en-us/edge/update/145?ep=1773&es=315&form=MT00ZZ&channel=stable&version=145.0.3800.58&sg=2&cs=350088316",
+  "url":"https://www.microsoft.com/en-us/edge/update/145?ep=1773&es=315&form=MT00ZZ&channel=stable&version=145.0.3800.58&sg=2&cs=350088316",<br>
   "check": 2
 }
 
 In Response 
 {
-  "sucess": true,
-  "message": "Short url saved sucessfully",
-  data:{
-        "shortUrl":"http://localhost:1050/ajsd09,
-        "imageUrl:"https:fileCompress/file-upload/dev/locals/images/imagename,
+  "sucess": true,<br>
+  "message": "Short url saved sucessfully",<br>
+  data:{<br>
+        "shortUrl":"http://localhost:1050/ajsd09,<br>
+        "imageUrl:"https:fileCompress/file-upload/dev/locals/images/imagename,<br>
         }
 }
 
